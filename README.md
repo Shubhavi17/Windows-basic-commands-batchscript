@@ -36,18 +36,22 @@ Change to the "MyLab" directory and create an empty text file named "MyFile.txt"
 ## COMMAND AND OUTPUT
 
 List the contents of the "MyLab" directory.
+![Screenshot 2024-05-10 114957](https://github.com/Shubhavi17/Windows-basic-commands-batchscript/assets/150005085/0fe17d27-a316-47ee-b30d-28a8b55d7e26)
+
 
 
 ## COMMAND AND OUTPUT
 
 Copy "MyFile.txt" to a new folder named "Backup" on the desktop.
+![Screenshot 2024-05-10 115120](https://github.com/Shubhavi17/Windows-basic-commands-batchscript/assets/150005085/10288d58-4a47-401c-9f7d-b056d226763f)
+
 
 ## COMMAND AND OUTPUT
 
 Move the "MyLab" directory to the "Documents" folder.
+![Screenshot 2024-05-10 174721](https://github.com/Shubhavi17/Windows-basic-commands-batchscript/assets/150005085/fe7d6c15-e57d-4cfb-835b-f1780f90b585)
 
 
-## COMMAND AND OUTPUT
 
 
 ## Exercise 2: Advanced Batch Scripting
@@ -55,12 +59,10 @@ Create a batch script named "BackupScript.bat" that creates a backup of files wi
 
 
 
-
-
-
-
 ## OUTPUT
+![Screenshot 2024-05-10 174803](https://github.com/Shubhavi17/Windows-basic-commands-batchscript/assets/150005085/73ef0bca-3de5-4f1c-b9ef-f0e07a031504)
 
+![Screenshot 2024-05-10 174809](https://github.com/Shubhavi17/Windows-basic-commands-batchscript/assets/150005085/9202a0ad-72ff-4d6b-b5c6-426bc38618c0)
 
 
 
